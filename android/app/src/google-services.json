@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32533930606",
+    "project_id": "recipeappctsselab",
+    "storage_bucket": "recipeappctsselab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32533930606:android:90f4c6d9e2a05c8b0f7c7f",
+        "android_client_info": {
+          "package_name": "com.recipe.ctserecipeapplabtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32533930606-jb60j5meoqaobmrv0d9e8609i2kvhabs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARR4CoONt5XWZUSva7BRlDCafnDlqIpC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32533930606-jb60j5meoqaobmrv0d9e8609i2kvhabs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
